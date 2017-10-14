@@ -45,8 +45,8 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "globalfooter": "<script src=\"yoursamplescript.js\"></script>",
-    "html_before": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\" async=\"async\" defer=\"defer\" data-cfasync=\"false\" src=\"https://mylivechat.com/chatwidget.aspx?hccid=60779420\"></script>",
+    "globalfooter": "</script><!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\" async=\"async\" defer=\"defer\" data-cfasync=\"false\" src=\"https://mylivechat.com/chatwidget.aspx?hccid=60779420\"></script>",
+    "html_before": "",
     "headbody": "",
     "botbody": ""
   },

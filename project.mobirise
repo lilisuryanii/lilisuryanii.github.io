@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 167,
+    "uniqCompNum": 168,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -791,6 +791,31 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "blockTitle": "<h3>Block Title</h3>",
+            "HTMLCode": " <form action=\"/action_page.php\">\n  <div class=\"imgcontainer\">\n    <img src=\"img_avatar2.png\" alt=\"Avatar\" class=\"avatar\">\n  </div>\n\n  <div class=\"container\">\n    <label><b>Username</b></label>\n    <input type=\"text\" placeholder=\"Enter Username\" name=\"uname\" required>\n\n    <label><b>Password</b></label>\n    <input type=\"password\" placeholder=\"Enter Password\" name=\"psw\" required>\n\n    <button type=\"submit\">Login</button>\n    <input type=\"checkbox\" checked=\"checked\"> Remember me\n  </div>\n\n  <div class=\"container\" style=\"background-color:#f1f1f1\">\n    <button type=\"button\" class=\"cancelbtn\">Cancel</button>\n    <span class=\"psw\">Forgot <a href=\"#\">password?</a></span>\n  </div>\n</form> ",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "<h3>Block Title</h3>",
+          "HTMLCode": " <form action=\"/action_page.php\">\n  <div class=\"imgcontainer\">\n    <img src=\"img_avatar2.png\" alt=\"Avatar\" class=\"avatar\">\n  </div>\n\n  <div class=\"container\">\n    <label><b>Username</b></label>\n    <input type=\"text\" placeholder=\"Enter Username\" name=\"uname\" required=\"\">\n\n    <label><b>Password</b></label>\n    <input type=\"password\" placeholder=\"Enter Password\" name=\"psw\" required=\"\">\n\n    <button type=\"submit\">Login</button>\n    <input type=\"checkbox\" checked=\"checked\"> Remember me\n  </div>\n\n  <div class=\"container\" style=\"background-color:#f1f1f1\">\n    <button type=\"button\" class=\"cancelbtn\">Cancel</button>\n    <span class=\"psw\">Forgot <a href=\"#\">password?</a></span>\n  </div>\n</form> ",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-4n"
         }
       ]
     },

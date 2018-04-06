@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page8.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 307,
+    "uniqCompNum": 308,
     "versionPublish": "4.6.7",
     "theme": {
       "name": "mobirise4",
@@ -7561,45 +7561,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "anchor": "deltapicodeedit-7r",
-            "codeEdit": false,
-            "tinyEdit": false
-          },
-          "_customHTML": "<section class=\"blog-template-2\"><div class=\"container\"><div class=\"row\"><!-- Blog Entries Column --><div class=\"col-12 col-md-8 pt-4\"><!-- Blog Post --><div class=\"card mb-5\"><img class=\"card-img-top mb-4\" src=\"http://learnwd.com/wp-content/uploads/2018/03/bp2.png\" alt=\"Card image cap\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/bp2.png\"><h4 class=\"mb-3\">June 16, 2017 <span class=\"mx-1\">/</span> Category</h4><h2 class=\"card-title mb-3\">Accelerating growth</h2><div class=\"card-body p-0\"><p class=\"card-text mb-4\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p><a href=\"#\" class=\"btn btn-primary\" data-mce-href=\"#\">Read more</a></div></div><!-- Blog Post --><div class=\"card mb-5\"><img class=\"card-img-top mb-4\" src=\"http://learnwd.com/wp-content/uploads/2018/03/bp1.png\" alt=\"Card image cap\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/bp1.png\"><h4 class=\"mb-3\">June 16, 2017 <span class=\"mx-1\">/</span> Category</h4><h2 class=\"card-title mb-3\">Workplace Happiness</h2><div class=\"card-body p-0\"><p class=\"card-text mb-4\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p><a href=\"#\" class=\"btn btn-primary\" data-mce-href=\"#\">Read More</a></div></div><!-- Blog Post --><div class=\"card mb-5\"><img class=\"card-img-top mb-4\" src=\"http://learnwd.com/wp-content/uploads/2018/03/bp3.png\" alt=\"Card image cap\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/bp3.png\"><h4 class=\"mb-3\">June 16, 2017 <span class=\"mx-1\">/</span> Category</h4><h2 class=\"card-title mb-3\">navigating the future</h2><div class=\"card-body p-0\"><p class=\"card-text mb-4\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi vero voluptate voluptatibus possimus, veniam magni quis!</p><a href=\"#\" class=\"btn btn-primary\" data-mce-href=\"#\">Read More</a></div></div><!-- Pagination --><div class=\"col-12 p-0 mt-4 mb-4 text-right\"><a href=\"#\" class=\"btn btn-primary\" data-mce-href=\"#\">OLDER POSTS </a></div></div><!-- Sidebar Widgets Column --><div class=\"col-12 col-md-4 blog-sidebar sidebar pt-4\"><form class=\"form_search\"><input class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search...\"> <button class=\"btn-search btn-search my-2 my-sm-0\" type=\"submit\"></button></form><h4>Recent News</h4><ul class=\"list-group\"><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">All Categories</a></li><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">Business Consulting</a></li><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">Financial Consulting</a></li><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">Social Media Marketing</a></li><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">Career &amp; Life Coaching</a></li><li class=\"list-group-item\"><a href=\"#\" data-mce-href=\"#\">Entrepreneurship</a></li></ul><h4>Recent Posts</h4><div class=\"media pt-2\"><img src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb1.png\" alt=\"img\" class=\"\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb1.png\"><div class=\"media-body\"><h6><a href=\"#\" data-mce-href=\"#\">Time Management </a></h6><p>02 Sep, 2017</p></div></div><div class=\"media\"><img src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb2.png\" alt=\"img\" class=\"\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb2.png\"><div class=\"media-body\"><h6><a href=\"#\" data-mce-href=\"#\">We Are Hiring</a></h6><p>29 Aug, 2017</p></div></div><div class=\"media\"><img src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb3.png\" alt=\"img\" class=\"\" data-mce-src=\"http://learnwd.com/wp-content/uploads/2018/03/thumb3.png\"><div class=\"media-body\"><h6><a href=\"#\" data-mce-href=\"#\">New Location</a></h6><p>31 Jul, 2017</p></div></div><h4>Popular Tags</h4><div class=\"tags\"><a href=\"#\" data-mce-href=\"#\">Consultancy</a> <a href=\"#\" data-mce-href=\"#\">Logistics</a> <a href=\"#\" data-mce-href=\"#\">Development</a> <a href=\"#\" data-mce-href=\"#\">Analysis</a> <a href=\"#\" data-mce-href=\"#\">Business</a> <a href=\"#\" data-mce-href=\"#\">Finance</a> <a href=\"#\" data-mce-href=\"#\">Trends</a> <a href=\"#\" data-mce-href=\"#\">Support</a> <a href=\"#\" data-mce-href=\"#\">Video</a> <a href=\"#\" data-mce-href=\"#\">Culture</a> <a href=\"#\" data-mce-href=\"#\">Science</a></div></div></div></div></section>",
-          "_customCSS": ".blog-template-2 {\nbackground-color: #fff;\n}\nbody {\nfont-family: \"raleway\", sans-serif;\n}\nh4 {\nfont-size: 24px;\nfont-weight: 400;\n}\n.btn {\nfont-family: \"Open Sans\", sans-serif;\nfont-size: 11px;\nletter-spacing: 1.5px;\ntext-transform: uppercase;\npadding: 8px 16px;\nbackground-color: #42474c !important;\ncolor: #FFF !important;\ndisplay: inline-block;\nbox-sizing: border-box;\n-moz-box-sizing: border-box;\n-webkit-box-sizing: border-box;\ntext-decoration: none;\nborder: solid 2px #42474c !important;\nborder-radius: 2px;\n-moz-border-radius: 2px;\n-webkit-border-radius: 2px; }\n.btn:hover {\ncolor: #42474c !important;\nbackground-color: #fff !important;\nborder-color: #42474c !important; }\n.blog-sidebar .form_search input.form-control {\nbackground-color: transparent;\nborder-color: #efeff3;\n}\n.btn-search {\nbackground: 0 0;\nborder: 0;\nposition: absolute;\ntop: 36px;\nright: 15px;\ncolor: #848484;\ncursor: pointer;\n}\n.blog-sidebar .form_search .btn-search {\nright: 30px;\ncolor: #222;\n}\ninput.form-control, textarea.form-control, select.form-control {\nborder-radius: 0;\nfont-size: 14px;\npadding: 13px 20px;\nline-height: 24px;\nborder: 1px solid #f5f5f6;\nbackground-color: #f5f5f6;\nmargin-bottom: 30px;\nfont-weight: 300;\n}\n.blog-sidebar .media .media-body {\npadding: 0 20px;\n}\n.blog-sidebar .media .media-body h6 {\npadding: 5px 0 10px;\n}\n.blog-sidebar h4 {\nmargin-top: 45px;\n}\n.list-group-item {\nborder-radius: 0!important;\nfont-size: 15px;\ndisplay: inline-block;\npadding: 15px 0;\ncolor: #8b8e93;\nborder: 0;\nmargin: 0;\nborder-bottom: 1px solid rgba(139,142,147,.25);\n}\n.blog-sidebar .media img {\nheight: 60px;\nwidth: 60px;\n}\n.sidebar .list-group .list-group-item a {\nfont-size: 14px;\nfont-weight: 400;\nposition: relative;\ncolor: #222;\npadding-left: 0;\n}\n.blog-sidebar .tags {\nmargin-top: 30px;\n}\n.tags a {\npadding: 4px 10px;\nborder-radius: 2px;\ncolor: #fff;\ndisplay: inline-block;\nmargin-right: 5px;\nmargin-bottom: 8px;\nborder: 1px solid;\nbackground-color: #42474c;\nborder-color: #42474c;\nfont-size: 12px;\n}\n.card {\nborder: none;\n}\n.card-title {\nfont-style: normal;\nfont-weight: 800;\nfont-size: 40px;\nline-height: 1.4em;\nfont-family: 'Raleway', sans-serif;\nletter-spacing: 2px;\ntext-align: inherit;\ntext-transform: uppercase;\ncolor: #42474c;\n}\n.card-text {\nfont-style: normal;\nfont-weight: 400;\nfont-size: 13px;\nline-height: 23px;\nfont-family: 'Raleway', sans-serif;\nletter-spacing: 0em;\ntext-align: left;\ntext-transform: none;\ncolor: #8d8d8d;\n}\n.card h4 {\ncolor: #999999;\nfont-size: 15px;\nfont-weight: 500;\n}\n.post-meta {\nlist-style: none;\npadding: 0;\nmargin: 0;\nopacity: .7;\ncolor: #000;\nfont-weight: 600;\n}\n.post-meta &gt; li {\ndisplay: inline-block;\nmargin-right: 6px;\nfont-size: 12px;\n}\n.post .post-meta a, .post-meta a {\ncolor: #000;\ntransition: all 0.5s;\nfont-weight: 600;\n}\n.media a {\ncolor: #42474c;\nfont-size: 16px;\n}\n.media p {\nfont-size: 13px;\n}\n.media i {\nfont-size: 13px;\n}",
-          "alias": "deltapicodeedit",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapicodeedit",
-          "_anchor": "deltapicodeedit-7r",
-          "_styles": {
-            "DIV": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_afterNavbarItem": false,
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
-            "autoplay": false,
-            "fullWidth": false,
-            "bgColor": "#fff"
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-8i"
         }
       ]
     },

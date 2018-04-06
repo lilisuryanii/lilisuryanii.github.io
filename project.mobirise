@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 306,
+    "uniqCompNum": 307,
     "versionPublish": "4.6.7",
     "theme": {
       "name": "mobirise4",
@@ -7583,19 +7583,23 @@
           }
         },
         {
+          "_afterNavbarItem": false,
           "_params": {
-            "anchor": "",
-            "codeEdit": true,
-            "tinyEdit": false
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/mobirise/blue-skies",
+            "autoplay": false,
+            "fullWidth": false,
+            "bgColor": "#fff"
           },
-          "_customHTML": "<hr><div class='mbri-responsive mbr-iconfont' style='font-size: 44px;'>&nbsp;</div><p>Enter text here !</p><figure class='mbr-figure container'><div class='image-block' style='width: 25%; margin: auto;'><img src='../themes/mobirise4/components/_images/jumbotron.jpg' alt='DeltaPi' /></div></figure>Other text...<hr>",
-          "_customCSS": ".tinymce{background-color:white;text-align:center;}",
-          "alias": "deltapicodeedit",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "alias": "soundcloud",
           "_tags": [
             "Extension"
           ],
-          "_name": "deltapicodeedit",
-          "_anchor": "deltapicodeedit-7s"
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-8i"
         }
       ]
     },

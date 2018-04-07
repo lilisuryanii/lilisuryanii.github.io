@@ -7681,5 +7681,9 @@ body {
   }
 }
 #deltapicodeedit-7l DIV {
+  text-align: right;
+  color: #3e3e3e;
+}
+#deltapicodeedit-8o DIV {
   text-align: left;
 }

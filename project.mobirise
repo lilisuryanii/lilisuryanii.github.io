@@ -8479,8 +8479,8 @@
         },
         {
           "_params": {
-            "blockTitle": "<h3>Block <a href=\"assets/files/PETUNJUK PENGGUNAAN WEB.docx\" target=\"_blank\">Title</a></h3>",
-            "HTMLCode": "<h1>HTML Code</h1>",
+            "blockTitle": "",
+            "HTMLCode": "<h3>HTML Code</h3>",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -8492,8 +8492,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "blockTitle": "<h3>Block <a href=\"assets/files/PETUNJUK PENGGUNAAN WEB.docx\" target=\"_blank\">Title</a></h3>",
-          "HTMLCode": "<h1>HTML <a href=\"assets/files/PETUNJUK PENGGUNAAN WEB.docx\">Code</a></h1>",
+          "blockTitle": "",
+          "HTMLCode": "<h3>HTML Code</h3>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [

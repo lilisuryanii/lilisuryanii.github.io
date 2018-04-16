@@ -3253,6 +3253,9 @@ body {
 #accordion-block-77 .panel-title > .small > a {
   color: inherit;
 }
+#accordion-block-77 P {
+  text-align: left;
+}
 .cid-qvrU8cpdvt {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -7681,9 +7684,5 @@ body {
   }
 }
 #deltapicodeedit-7l DIV {
-  text-align: right;
-  color: #3e3e3e;
-}
-#deltapicodeedit-8o DIV {
   text-align: left;
 }

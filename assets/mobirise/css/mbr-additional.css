@@ -3204,23 +3204,24 @@ body {
 #accordion-block-77 P {
   text-align: left;
 }
-.cid-qPt33OwHPe {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-qPt6V2UHPY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
 }
-.cid-qPt33OwHPe .mbr-figure {
-  margin: 0 auto;
+.cid-qPt6V2UHPY .image-block {
+  margin: auto;
+}
+.cid-qPt6V2UHPY figcaption {
+  position: relative;
+}
+.cid-qPt6V2UHPY figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  display: flex;
-  justify-content: center;
 }
-.cid-qPt33OwHPe .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-qPt33OwHPe .mbr-figure img {
+@media (max-width: 768px) {
+  .cid-qPt6V2UHPY .image-block {
     width: 100% !important;
   }
 }

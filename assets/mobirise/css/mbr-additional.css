@@ -1801,6 +1801,13 @@ body {
   word-wrap: break-word;
   word-break: break-word;
 }
+#deltapieditor-a7 P {
+  color: #232323;
+  text-align: right;
+}
+#deltapieditor-a7 H2 {
+  text-align: right;
+}
 .cid-qxX4cf7G98 {
   padding-top: 30px;
   padding-bottom: 0px;

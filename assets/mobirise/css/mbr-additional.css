@@ -3229,6 +3229,26 @@ body {
   color: #000000;
   text-align: center;
 }
+.cid-qPt33OwHPe {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qPt33OwHPe .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qPt33OwHPe .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-qPt33OwHPe .mbr-figure img {
+    width: 100% !important;
+  }
+}
 .cid-qPsKCM4Rke {
   padding-top: 0px;
   padding-bottom: 0px;

@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page6.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 380,
+    "uniqCompNum": 381,
     "versionPublish": "4.7.1",
     "theme": {
       "name": "mobirise4",
@@ -2602,6 +2602,25 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "_customHTML": "<section class=\"cid-qvrU8cpdvt\" id=\"content13-24\">\n    \n    <div class=\"container\">\n            <div class=\"media-container-row\" style=\"width: 66%;\">\n                <div class=\"img-item item1\" style=\"width: 198%;\">\n                    <img src=\"assets/images/full-hd-1080p-cute-girl-with-flowers-hd-desktop-backgrounds-1920x1200.jpg\" alt=\"\" title=\"\">\n                    <div class=\"img-caption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black display-7\">Gambar diadaptasi oleh <em>Mobirise</em></p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"assets/images/httpbryanmbrandenburg.comhuman-anatomy-3d-900x900.jpg\" alt=\"\" title=\"\">\n                    <div class=\"img-caption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black display-7\">\n                            Mobile friendly\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "bgImage": "http://www.patrickdegand.net/assets/images/thumbnail-128x128-4.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3366ff"
+          },
+          "_customHTML": "<section class=\"cid-qvrU8cpdvt\" id=\"content13-24\">\n    \n    <div class=\"container\">\n            <div class=\"media-container-row\" style=\"width: 66%;\">\n                <div class=\"img-item item1\" style=\"width: 198%;\">\n                    <img src=\"assets/images/full-hd-1080p-cute-girl-with-flowers-hd-desktop-backgrounds-1920x1200.jpg\" alt=\"\" title=\"\">\n                    <div class=\"img-caption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black display-7\">Gambar diadaptasi oleh <em>Mobirise</em></p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"assets/images/httpbryanmbrandenburg.comhuman-anatomy-3d-900x900.jpg\" alt=\"\" title=\"\">\n                    <div class=\"img-caption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black display-7\">\n                            Mobile friendly\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-ak"
         },
         {
           "_styles": {

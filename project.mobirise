@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "page6.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 376,
+    "uniqCompNum": 377,
     "versionPublish": "4.7.1",
     "theme": {
       "name": "mobirise4",
@@ -2613,14 +2613,38 @@
             "bgColorRadio": true,
             "bgColor": "#3366ff"
           },
-          "_customHTML": "<p>\n  <img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://4.bp.blogspot.com/-Mj__Cf1iDqM/WFIGSIDxPpI/AAAAAAAAIL8/KksMSWvUY2cDqma9Orc0kbaetGEF3vDtQCLcB/s1600/sistem%2Bpernapasan%2bmanusia.jpg\" width=\"471 height=\" 236\"=\"\">\n  </p>\n  <p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <span style=\"font-size: 10pt;\">\n\t  <em>sumber:&nbsp;\n\t    <a href=\"https://sistem\">https://sistempernapasanmanusia.com</a>\n\t   </em>\n\t</span>\n  </p>",
+          "_customHTML": "<p>\n  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;<img style=\"display: block; margin-left: auto; margin-right: auto; width: 50%;\" src=\"https://4.bp.blogspot.com/-Mj__Cf1iDqM/WFIGSIDxPpI/AAAAAAAAIL8/KksMSWvUY2cDqma9Orc0kbaetGEF3vDtQCLcB/s1600/sistem%2Bpernapasan%2bmanusia.jpg\" width=\"471 height=\" 236\"=\"\">\n  </p>\n  <p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n    <span style=\"font-size: 10pt;\">\n\t  <em>sumber:&nbsp;\n\t    <a href=\"https://sistem\">https://sistempernapasanmanusia.com</a>\n\t   </em>\n\t</span>\n  </p>",
           "_customCSS": "p{color:white;}",
           "alias": "deltapieditor",
           "_tags": [
             "Extension"
           ],
           "_name": "deltapieditor",
-          "_anchor": "deltapieditor-af"
+          "_anchor": "deltapieditor-af",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "_customHTML": "<p style=\"text-align: center;\"><img src=\"https://4.bp.blogspot.com/-Mj__Cf1iDqM/WFIGSIDxPpI/AAAAAAAAIL8/KksMSWvUY2cDqma9Orc0kbaetGEF3vDtQCLcB/s1600/sistem%2Bpernapasan%2bmanusia.jpg\" alt=\"\" width=\"423\" height=\"212\" /></p>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "bgImage": "http://www.patrickdegand.net/assets/images/thumbnail-128x128-4.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3366ff"
+          },
+          "_customHTML": "",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-ag"
         },
         {
           "_styles": {

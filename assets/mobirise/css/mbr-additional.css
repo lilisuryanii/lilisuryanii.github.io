@@ -7692,7 +7692,10 @@ body {
   background-color: #a1cfc3;
 }
 .cid-qPwQdOeGPG H2 {
-  color: #ffffff;
+  color: #000000;
+}
+.cid-qPwQdOeGPG .mbr-text {
+  color: #232323;
 }
 #accordion-block-b6 .panel-body {
   padding: 15px;

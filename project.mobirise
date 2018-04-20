@@ -495,10 +495,10 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
+            "sound": "https://soundcloud.com/alafasy/sets",
             "autoplay": true,
             "fullWidth": true,
-            "bgColor": "#fff"
+            "bgColor": "#073b4c"
           },
           "alias": "soundcloud",
           "_tags": [

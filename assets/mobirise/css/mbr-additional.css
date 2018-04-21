@@ -9388,24 +9388,27 @@ body {
 .cid-qPIO94Ggm0 .mbr-text B {
   color: #000000;
 }
-.cid-qPOVuj8LhD {
+.cid-qPOXohHVaA {
   padding-top: 0px;
   padding-bottom: 0px;
   background: #ffffff;
 }
-.cid-qPOVuj8LhD .image-block {
+.cid-qPOXohHVaA .image-block {
   margin: auto;
 }
-.cid-qPOVuj8LhD figcaption {
+.cid-qPOXohHVaA .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qPOXohHVaA figcaption {
   position: relative;
 }
-.cid-qPOVuj8LhD figcaption div {
+.cid-qPOXohHVaA figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-qPOVuj8LhD .image-block {
+  .cid-qPOXohHVaA .image-block {
     width: 100% !important;
   }
 }

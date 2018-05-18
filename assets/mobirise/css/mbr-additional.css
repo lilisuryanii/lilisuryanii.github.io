@@ -1754,7 +1754,7 @@ body {
 .cid-quOiI6ugX4 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #345456;
+  background-color: #ffffff;
 }
 .cid-quOiI6ugX4 .line {
   background-color: #ffffff;
@@ -1774,6 +1774,9 @@ body {
     width: 100% !important;
   }
 }
+.cid-quOiI6ugX4 .section-text B {
+  color: #232323;
+}
 .cid-quOiEbnzkH {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1785,7 +1788,6 @@ body {
 .cid-qvmXeeQOlO {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-qvmXeeQOlO .testimonial-text {
   font-style: italic;

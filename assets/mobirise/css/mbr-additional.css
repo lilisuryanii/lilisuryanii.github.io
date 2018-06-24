@@ -1,4 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+
+
 
 body {
   font-style: normal;
@@ -16,14 +20,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: undefined;
+  font-family: 'Montserrat', sans-serif;
   font-size: 4.2rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.72rem;
 }
 .display-2 {
-  font-family: undefined;
+  font-family: 'Lato', sans-serif;
   font-size: 2.4rem;
 }
 .display-2 > .mbr-iconfont {
@@ -2737,12 +2741,61 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qSvqr5Q5mG {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #a1cfc3;
+.cid-qVSS3q9s5e {
+  background-image: url("../../../assets/images/ashamedweightydachshund-max-1mb.gif");
 }
-.cid-qSvqr5Q5mG H2 {
+.cid-qVSS3q9s5e .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-qVSS3q9s5e .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-qVSS3q9s5e .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-qVSS3q9s5e .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-qVSS3q9s5e .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-qVSS3q9s5e a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-qVSS3q9s5e a.close:hover {
   color: #ffffff;
 }
 .cid-qPsKCM4Rke {

@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower:400);
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911:400);
 @import url(https://fonts.googleapis.com/css?family=Gaegu:300,400,700);
 
 
@@ -51,11 +51,11 @@ body {
   font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,14 +656,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -10716,6 +10716,9 @@ body {
   color: #767676;
 }
 .cid-qPL1ecUQeU .mbr-text {
+  color: #000000;
+}
+.cid-qPL1ecUQeU .mbr-text B {
   color: #000000;
 }
 .cid-qPL1GPHye9 {

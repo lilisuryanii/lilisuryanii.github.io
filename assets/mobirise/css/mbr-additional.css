@@ -1744,6 +1744,8 @@ body {
   }
 }
 .cid-quNen1MRLr {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/lungs.gif");
 }
 .cid-quNen1MRLr H1 {
@@ -9628,6 +9630,21 @@ body {
 .cid-qPIO94Ggm0 .mbr-text B {
   color: #000000;
 }
+.cid-qPIPyFtQiK {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qPIPyFtQiK .mbr-text,
+.cid-qPIPyFtQiK blockquote {
+  color: #767676;
+}
+.cid-qPIPyFtQiK .mbr-text DIV {
+  color: #000000;
+}
+.cid-qPIPyFtQiK .mbr-text {
+  color: #000000;
+}
 .cid-qPOXohHVaA {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -9649,59 +9666,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qPOXohHVaA .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qSzjeFncL0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qSzjeFncL0 .mbr-section-subtitle {
-  color: #000000;
-  text-align: center;
-}
-.cid-qPIQ0PHUxD {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qPIQ0PHUxD .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-qPIPyFtQiK {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qPIPyFtQiK .mbr-text,
-.cid-qPIPyFtQiK blockquote {
-  color: #767676;
-}
-.cid-qPIPyFtQiK .mbr-text DIV {
-  color: #000000;
-}
-.cid-qPIPyFtQiK .mbr-text {
-  color: #000000;
-}
-.cid-qPIQylj1yy {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: #ffffff;
-}
-.cid-qPIQylj1yy .image-block {
-  margin: auto;
-}
-.cid-qPIQylj1yy figcaption {
-  position: relative;
-}
-.cid-qPIQylj1yy figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qPIQylj1yy .image-block {
     width: 100% !important;
   }
 }
